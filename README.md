@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Shayan Yari
-- 👀 I’m interested in coding a lot.
-- 🌱 I’m currently learning c++, html, Java and ...
-- 📫 You can reach me on sh.work.yari@gmail.com.
+- 👋 Hi there, my name is Shayan Yari.
+- 🧑‍🎓 I havent graduated yet but i try to .
+- 👀 I’m interested in coding a lot .
+- 🏫 I’m currently learning c++, html, Java and ... .
+- 📫 You can reach me on "sh.work.yari@gmail.com" .
